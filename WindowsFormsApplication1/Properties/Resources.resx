@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="061" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\061.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pagina-copiar-icono-4625-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pagina-copiar-icono-4625-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="moneda-verde-dinero-en-efectivo-en-dolares-icono-5593-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\moneda-verde-dinero-en-efectivo-en-dolares-icono-5593-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tienda-de-compras-del-ecommerce-icono-5258-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tienda-de-compras-del-ecommerce-icono-5258-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cerca-de-la-cruz-eliminar-la-salida-de-error-icono-5953-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cerca-de-la-cruz-eliminar-la-salida-de-error-icono-5953-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anadido-excluir-de-compra-en-linea-de-comercio-electronico-de-la-tienda-icono-9156-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anadido-excluir-de-compra-en-linea-de-comercio-electronico-de-la-tienda-icono-9156-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clase-icono-9621-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\clase-icono-9621-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dollar_sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dollar_sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tienda-de-compras-del-ecommerce-icono-5258-1281" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tienda-de-compras-del-ecommerce-icono-5258-1281.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cancelar-icono-4624-48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancelar-icono-4624-48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guardar-archivo-icono-6713-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guardar-archivo-icono-6713-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buscar-buscar-ampliar-icono-9048-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buscar-buscar-ampliar-icono-9048-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cancelar-icono-4624-481" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancelar-icono-4624-481.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="advancedsettings" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\advancedsettings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hardware-Laser-Printer-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hardware-Laser-Printer-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="carritonoimpreso1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carritonoimpreso1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="beos-consulta-icono-6152-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\beos-consulta-icono-6152-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imprimir-icono-4607-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imprimir-icono-4607-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eliminar-icono-4912-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eliminar-icono-4912-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cuenta-icono-6432-1281" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cuenta-icono-6432-1281.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="copiar-los-archivos-de-documentos-de-icono-4275-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\copiar-los-archivos-de-documentos-de-icono-4275-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blockdevice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blockdevice.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="negocios-monedas-de-plata-metalica-de-pago-dolar-icono-8061-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\negocios-monedas-de-plata-metalica-de-pago-dolar-icono-8061-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cancelar-icono-4624-482" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cancelar-icono-4624-482.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hojacalculorojo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hojacalculorojo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="recyclebin-vacio-icono-9473-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\recyclebin-vacio-icono-9473-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="si-puede-aceptar-icono-7881-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\si-puede-aceptar-icono-7881-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ver-icono-5784-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ver-icono-5784-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e-mail-sobre-icono-5597-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e-mail-sobre-icono-5597-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="corrector-ortografico-icono-5850-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\corrector-ortografico-icono-5850-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hoja-de-calculo-excel-invoice-icono-5449-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hoja-de-calculo-excel-invoice-icono-5449-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dibujo-a-lapiz-modificar-escribir-icono-8118-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dibujo-a-lapiz-modificar-escribir-icono-8118-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="copiar-los-archivos-de-documentos-de-icono-4275-161" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\copiar-los-archivos-de-documentos-de-icono-4275-161.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anadido-excluir-de-compra-en-linea-de-comercio-electronico-de-la-tienda-icono-9156-1281" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anadido-excluir-de-compra-en-linea-de-comercio-electronico-de-la-tienda-icono-9156-1281.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="agregar-icono-5633-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\agregar-icono-5633-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camion_venido" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camion_venido.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="encontrar-busqueda-zoom-icono-6513-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\encontrar-busqueda-zoom-icono-6513-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camion-lorrygreen-icono-9499-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camion-lorrygreen-icono-9499-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e-mail-sobre-icono-5597-1281" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e-mail-sobre-icono-5597-1281.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="explorador-de-archivos-icono-6698-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\explorador-de-archivos-icono-6698-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usuarios-de-la-persona-icono-7851-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usuarios-de-la-persona-icono-7851-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cuenta-icono-6432-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cuenta-icono-6432-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blockdevice1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blockdevice1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paquete-de-caja-icono-5213-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paquete-de-caja-icono-5213-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="carritonoimpreso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carritonoimpreso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kdmconfig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kdmconfig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="addres_book" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\addres_book.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="carritonoimpreso2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carritonoimpreso2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="explorador-de-archivos-icono-6698-161" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\explorador-de-archivos-icono-6698-161.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eliminar-icono-4912-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eliminar-icono-4912-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="beos-consulta-icono-6152-1281" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\beos-consulta-icono-6152-1281.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imprimir-icono-5119-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imprimir-icono-5119-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kuser" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kuser.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="microsoft-office-word-2003-icono-8261-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\microsoft-office-word-2003-icono-8261-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guardar-archivo-icono-6713-161" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\guardar-archivo-icono-6713-161.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Folder Search" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Folder Search.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Community Help" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Community Help.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paquete-de-caja-icono-5213-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paquete-de-caja-icono-5213-16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
